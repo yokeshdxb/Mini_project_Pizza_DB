@@ -84,4 +84,4 @@ FROM (
 WHERE rank_ <= 3;
 
 🙌 Acknowledgements
-Thanks to my mentors Raja,Pranav, Chirag, and Sandhya for their continuous guidance and support during this project.
+Thanks to my mentors Raja, Pranav, Chirag and Sandhya for their continuous guidance and support during this project.
